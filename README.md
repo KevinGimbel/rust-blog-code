@@ -6,4 +6,4 @@ This repository contains code examples for Rust blog posts I wrote.
 
 | Crate | Blogpost |
 |-------|----------| 
-| `env-example` | [https://kevingimbel.de/de/blog/2020/09/rust-compiler-umgebungsvariablen/](https://kevingiombel.de/de/blog/2020/09/rust-compiler-umgebungsvariablen/) | 
+| `env-example` | [https://kevingimbel.de/de/blog/2020/09/rust-compiler-umgebungsvariablen/](https://kevingimbel.de/de/blog/2020/09/rust-compiler-umgebungsvariablen/) | 
